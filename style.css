@@ -1,3 +1,14 @@
+*{
+    background-color: lightcyan;
+  
+}
+
+.squiggly-underline {
+    text-decoration:blue wavy underline;
+    
+}
+
+
 .intro {
     text-align: center;
     text-shadow:rgb(0, 30, 255) 1px 0 10px;
